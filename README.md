@@ -2,7 +2,7 @@
 
 ## <ins>Project Title
 
-Email's with Regex
+Email Search using Regex
 
 ## <ins>Table of contents
 
@@ -15,11 +15,11 @@ Email's with Regex
 
 ## <ins>General info
 
-Coming.
+A regular expression, commonly referred to as regex are a sequence of characters that defines a search pattern. Depending on what you are wanting to find you can modify the expression to achieve just that. In this Gist tutorial I will explain how you can use regex to match email addresses.
 
 ## <ins>Description
 
-<li>Coming</li>
+[Gist on Email Search using Regex](https://gist.github.com/imjustSahen/f55e4136ff83f4dda397bde2d4cb1349)
 
 ## <ins>Working Application
 
